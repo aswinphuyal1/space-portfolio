@@ -258,21 +258,21 @@ export const PROJECTS = [
     description:
       'Designed an app to automate match scheduling based on the new Champions League format.Implemented dynamic data handling and optimized performance for smooth user experience.',
     image: "/projects/project-1.png",
-    // link: "https://example.com",
+    link: "https://github.com/aswinphuyal1",
   },
   {
-    title: "Interactive Cards Portfolio",
+    title: "News App",
     description:
-      'Step into the extraordinary world of my professional journey through the "Interactive Cards Portfolio" - an innovative and visually captivating platform that redefines the traditional portfolio experience. Ditching the conventional static layout, this portfolio leverages interactive cards to showcase my skills, projects, and personality in an engaging and dynamic manner.',
+      'Developed a web application that fetches and displays the latest news from various sources using an API.Implemented a clean and responsive UI using React and Bootstrap.',
     image: "/projects/project-2.png",
-    link: "https://example.com",
+    link: "https://github.com/aswinphuyal1",
   },
   {
-    title: "Space Themed Website",
+    title: "Notebook App",
     description:
-      'Embark on an interstellar journey with my "Space Themed Website", a mesmerizing space-themed website that invites you to explore the cosmic wonders beyond our world. Immerse yourself in an awe-inspiring digital experience that blends cutting-edge design with the mysteries of the universe.',
+      'Built a note-taking application that allows users to create, edit, and delete notes.Integrated local storage for data persistence and used React hooks for state management.',
     image: "/projects/project-3.png",
-    link: "https://example.com",
+    link: "https://github.com/aswinphuyal1",
   },
 ] as const;
 
