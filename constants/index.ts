@@ -283,17 +283,17 @@ export const FOOTER_DATA = [
       {
         name: "YouTube",
         icon: FaYoutube,
-        link: "https://youtube.com",
+        link: "https://www.youtube.com/@aswinphuyal1559",
       },
       {
         name: "GitHub",
         icon: RxGithubLogo,
-        link: "https://github.com",
+        link: "https://github.com/aswinphuyal1",
       },
       {
         name: "Discord",
         icon: RxDiscordLogo,
-        link: "https://discord.com",
+        link: "https://discord.com/channels/@me",
       },
     ],
   },
@@ -303,37 +303,37 @@ export const FOOTER_DATA = [
       {
         name: "Instagram",
         icon: RxInstagramLogo,
-        link: "https://instagram.com",
+        link: "https://www.instagram.com/phuyalaswin/",
       },
       {
         name: "Twitter",
         icon: RxTwitterLogo,
-        link: "https://twitter.com",
+        link: "https://x.com/AswinPhuyal1",
       },
       {
         name: "Linkedin",
         icon: RxLinkedinLogo,
-        link: "https://linkedin.com",
+        link: "https://www.linkedin.com/in/aswin-phuyal-787272284/",
       },
     ],
   },
   {
     title: "About",
     data: [
-      {
-        name: "Become Sponsor",
-        icon: null,
-        link: "https://youtube.com",
-      },
-      {
-        name: "Learning about me",
-        icon: null,
-        link: "https://example.com",
-      },
+      // {
+      //   name: "",
+      //   icon: null,
+      //   link: "https://youtube.com",
+      // },
+      // {
+      //   name: "Learning about me",
+      //   icon: null,
+      //   link: "https://example.com",
+      // },
       {
         name: "Contact Me",
         icon: null,
-        link: "mailto:contact@example.com",
+        link: "https://wa.me/9779861780274",
       },
     ],
   },
